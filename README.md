@@ -20,6 +20,9 @@ Hello, I'm Otávio!
 <br/>
 ### I'm an Computer Science student at École Polytechnique de Paris.
 
+<br/>
+<br/>
+
 > ## Areas of interest
 > - Software Engineering
 > - Machine Learning 
