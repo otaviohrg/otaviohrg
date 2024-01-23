@@ -23,10 +23,10 @@ Hello, I'm Otávio!
 <br/>
 <br/>
 
-> ## Areas of interest
-> - Software Engineering
-> - Machine Learning 
-> - Computer Vision
+## Areas of interest
+- Software Engineering
+- Machine Learning 
+- Computer Vision
 
 ## Languages and Tools
 
