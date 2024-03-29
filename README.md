@@ -20,6 +20,7 @@ Hello, I'm Otávio!
 <br/>
 
 ### I'm an Computer Science student at École Polytechnique de Paris.
+I have a deep interest in AI and Machine Learning. I also work as a Freelance Web Developer.
 
 <br/>
 <br/>
