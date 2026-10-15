@@ -1,102 +1,59 @@
-<div style="margin: auto; width: full; display: flex; flex-direction: column; align-items: center; justify-content: space-between" align="center">
+<h1 align="center">Hi, I'm Otávio 👋</h1>
 
-<div>
-<h1 style="margin:auto;">
-Hello, I'm Otávio!
-</h1>
-<br/>
-<br/>
-</div>
-  
-<div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/otaviohrg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:otaviohrguimaraes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviohrg/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33780789911)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviohrguimaraes@gmail.com)
+<h3 align="center">
+  Robotics Researcher · Machine Learning Engineer · Software Developer
+</h3>
 
-</div>
+I'm a Computer Science engineer from École Polytechnique (l'X), currently pursuing graduate studies in Robotics at Polytechnique Montréal.
 
+My work focuses on **robotics, computer vision, and machine learning**, with a particular interest in visual SLAM, 3D reconstruction, and foundation models for autonomous systems.
 
-<br/>
+Alongside my research, I have professional experience in software engineering and applied machine learning, including building LLM-powered applications and data-driven systems.
 
-### I'm an Computer Science student at École Polytechnique de Paris.
-I have a deep interest in AI and Machine Learning. I also work as a Freelance Web Developer.
+### 🔬 Research Interests
 
-<br/>
-<br/>
+- **Robotics & SLAM** — Visual odometry, mapping, and autonomous navigation
+- **Computer Vision** — 3D reconstruction, geometric estimation, and scene understanding
+- **Machine Learning** — Representation learning, deep learning, and foundation models
+- **Applied AI** — LLM-powered applications and intelligent systems
 
-## Areas of interest
-- Software Engineering
-- Machine Learning 
-- Computer Vision
+### 🛠️ Technologies
 
-## Languages and Tools
+**Languages**
 
-<div style="margin: auto; width: full; display: flex; flex-direction: column; align-items: center; justify-content: space-between" align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-Software Engineering
+**Machine Learning & Data Science**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-Machine learning / AI
+**Software & Infrastructure**
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-Other tools
+### 📫 Get in Touch
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- where to get the badges: https://github.com/Ileriayo/markdown-badges -->
+I'm always interested in discussing robotics, computer vision, machine learning, and interesting engineering problems.
 
-</div>
-
-<!-- > <span style="display: flex; align-items: center ;">
-> <img style="margin: 20px;"alt="Voca" width="80px" src="https://raw.githubusercontent.com/guilevieiram/voca/448a9e0d6abd9822f017e27426172a033bd4264b/frontend/src/assets/nav-logo.svg"/>
-> <div>
->
->  ### *Currently building **Voca**:*
->
->  A language learning app that uses top of the line ML technology!
-> </div>
-> 
-> </span>
->
-> The stack:
-> - React (Typescript)
-> - Flask (Python)
-> - Spacy (NLP)
-> - PostgreSQL (Amazon AWS)
-> - Heroku
-
-----
-
-<br /> -->
-
-
-[github]: https://github.com/otaviohrg
-[instagram]: https://instagram.com/otaviohribas
-[whatsapp]: https://wa.me/33780789911
-[linkedin]: https://linkedin.com/in/otaviohrg
-
-[python]: https://www.python.org/
-[jupyter]:https://jupyter.org/
-[flask]:https://flask.palletsprojects.com/en/2.0.x/
-[sklearn]: https://scikit-learn.org/stable/
-[pandas]:https://pandas.pydata.org/ 
-[postgresql]: https://www.postgresql.org/
-[html]: https://en.wikipedia.org/wiki/HTML5
-[linux]: https://ubuntu.com/
+- [LinkedIn](https://www.linkedin.com/in/otaviohrg/)
+- [Email](mailto:otaviohrguimaraes@gmail.com)
